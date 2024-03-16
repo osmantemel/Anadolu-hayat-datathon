@@ -15,3 +15,10 @@ Missing Forest, eksik veri ile başa çıkmak için geliştirilmiş bir modeldir
 
 * Amelia II: 
 Amelia II, eksik veri analizi ve doldurma için kullanılan istatistiksel bir yöntemdir. Çeşitli makine öğrenimi modellerinden farklı olarak, Amelia II, eksik veri doldurma için istatistiksel yöntemler kullanır.
+
+
+
+
+
+
+
